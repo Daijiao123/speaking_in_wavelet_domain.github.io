@@ -1,0 +1,24 @@
+/* 基本的CSS样式 */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #555;
+}
+
+audio {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* 添加更多的样式规则 */
